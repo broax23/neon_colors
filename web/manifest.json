@@ -1,6 +1,6 @@
 {
-    "name": "moviesapp_siarot",
-    "short_name": "moviesapp_siarot",
+    "name": "neon",
+    "short_name": "neon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
